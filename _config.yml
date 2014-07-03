@@ -1,0 +1,15 @@
+# Site settings
+title: ZPX1
+email: zeropx@gmail.com
+description: "something to tell you something"
+baseurl: ""
+url: "zeropx.github.io/zpx1"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+
+#
+safe: true
+lsi: false
