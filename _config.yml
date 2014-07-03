@@ -1,9 +1,9 @@
 # Site settings
-title: ZPX1
+title: ZEROPX
 email: zeropx@gmail.com
-description: "something to tell you something"
+description: "Entraping mind experiences through visual communication and technology"
 baseurl: ""
-url: "zeropx.github.io/zpx1"
+url: "zeropx.github.io"
 
 # Build settings
 markdown: kramdown
